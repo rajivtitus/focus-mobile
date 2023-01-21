@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Pomodoro app to focus on tasks
+Pomodoro app developed using React Native to focus on tasks
 
 ## Setup
 
